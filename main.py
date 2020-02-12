@@ -8,5 +8,9 @@ print("Look at this poser trying to improve my code")
 
 print("No precious, master is good to smeagol")
 
+
 print("ups I shouldnt be here")
+
+print("time to create a conflict")
+
 
